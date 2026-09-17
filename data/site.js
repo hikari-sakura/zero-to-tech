@@ -6,16 +6,16 @@
 // 它们可以改成从网络接口实时取——而组件那边照样一个字都不用动。
 
 export const home = {
-  heroTitle: "欧内该，让我变强吧",
-  heroSubtitle: "憧憬成为姛学master",
+  heroTitle: "关于我",
+  heroSubtitle: "项目，创意，灵感，心得，我的作品",
   featuredWork: {
-    kicker: "开！",
-    title: "satsuki",
-    copy: "天才程序员就此诞生",
-    linkLabel: "这波卡了",
+    kicker: "作品",
+    title: "文字实验室",
+    copy: "拼音和情绪，挖掘中文里的细节",
+    linkLabel: "打开作品",
   },
   identity: {
-    motto: "我想成为计算机之神啊",
+    motto: "已识乾坤大，尤怜草木青",
     learning: "零到全栈",
   },
 };
