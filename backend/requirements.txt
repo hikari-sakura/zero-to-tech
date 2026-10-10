@@ -2,7 +2,7 @@ agent-detector==2.0.0
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
--e git+ssh://git@github.com/hikari-sakura/zero-to-tech.git@93e3b2808685d199de08d9ae89150ee5118772b0#egg=backend&subdirectory=backend
+-e git+ssh://git@github.com/hikari-sakura/zero-to-tech.git@6711cc635862c7b0d000726fbe9ffae24a1d3c12#egg=backend&subdirectory=backend
 certifi==2026.7.22
 charset-normalizer==3.5.1
 click==8.5.0
